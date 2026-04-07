@@ -1,0 +1,14 @@
+﻿
+> knowledgeos-frontend@0.1.0 dev
+> next dev
+
+  Γû▓ Next.js 14.2.14
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ Γ£ô Starting...
+ Γ£ô Ready in 2.1s
+ Γùï Compiling / ...
+ Γ£ô Compiled / in 2.4s (564 modules)
+ HEAD / 200 in 2561ms
+ GET / 200 in 39ms
